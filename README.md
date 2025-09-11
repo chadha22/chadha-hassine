@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Me retrouver  
-- 🔗 [LinkedIn][(https://linkedin.com/in/ton-lien)  ](https://www.linkedin.com/in/chadha-hassine/) 
+- 🔗 https://www.linkedin.com/in/chadha-hassine/
 - 📩 Email : **chadhaahassine@gmail.com**  
 
 ---
